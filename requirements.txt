@@ -4,3 +4,4 @@ pydub
 pandas
 openpyxl
 ffmpeg-python
+nest_asyncio
